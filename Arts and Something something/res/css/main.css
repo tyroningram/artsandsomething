@@ -1,0 +1,44 @@
+* {
+  font-family: Helvetica;
+}
+
+header {
+  background-image: url(/res/pattern.jpeg);
+
+  font-size: 50px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.titel-brushes {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+.titel-frames {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+
+.titel-paint {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
+
+.prices {
+  font-weight: bold;
+  color: blue;
+}
